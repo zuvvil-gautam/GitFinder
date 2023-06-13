@@ -1,25 +1,26 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
+GitFinder is a web application which uses Github API to fetch the Github users and showcase  all the information of the user including repositories.
 
 ## Tech Stack
 
 **Client:** HTML, CSS, JavaScript, API
 
 ## Demo
+Gif of github repo.
+![gif](https://github.com/zuvvil-gautam/GitFinder/assets/95866125/2fb87ed7-36c8-4097-bc00-cc9be17b5630)
 
-Insert gif or link to demo
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- This application can fetch any user across the globe having github account and all the information of the user associated with the github is displayed here.
+- We can checkout the repositories of any user.
+- Light and a dark theme functionality is enabled.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/zuvvil-gautam/GitFinder/assets/95866125/d9fef75d-dab6-4602-8e93-0059ec9b5c4e)
 
 ## Run Locally
 

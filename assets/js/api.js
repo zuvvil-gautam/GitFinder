@@ -1,7 +1,7 @@
 /**
  * @license MIT
  * @author zuvvil-gautam <zuvvilgautamr123@gmail.com>
- * @copyright zuvvil-gautam 2023
+ * 
  */
 
 

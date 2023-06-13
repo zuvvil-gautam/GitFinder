@@ -36,11 +36,10 @@ Search
 
 alt = zuvvil-gautam
 
-Sadee
 
 zuvvil-gautam
 
-Web developer ◽ Youtuber ◽ Technical writer ◽ Web3 enthusiast
+
 
 <span class="material-symbols-rounded">open_in_new</span>
 
