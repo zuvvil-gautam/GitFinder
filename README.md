@@ -20,7 +20,8 @@ Gif of github repo.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/zuvvil-gautam/GitFinder/assets/95866125/d9fef75d-dab6-4602-8e93-0059ec9b5c4e)
+![App Screenshot](![Screenshot (30)](https://github.com/zuvvil-gautam/GitFinder/assets/95866125/7fdf204c-3aa7-4c00-8c51-9ce2d5d3ca9b)
+)
 
 ## Run Locally
 
